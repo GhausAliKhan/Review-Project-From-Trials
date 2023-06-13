@@ -26,7 +26,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 My Portfolio <a name="about-project"></a>
+# 📖 Survey Form <a name="about-project"></a>
 
 I created this survey form with Html and Css, and also added linters for Html and Css
 
@@ -137,9 +137,8 @@ npx stylelint "**/*.{css,scss}"
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Add Projects section
-- Add About me section
-- Add Contact me section
+- Add Header section
+- Add Footer section
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
